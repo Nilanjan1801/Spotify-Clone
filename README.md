@@ -1,1 +1,2 @@
 # Spotify-Clone
+A Spotify Clone built using HTML, CSS, and JavaScript, mimicking the core functionality of Spotify's music streaming platform. Users can browse songs, play/pause tracks, skip, and control volume through an intuitive UI. This project highlights key web development techniques like audio manipulation with JavaScript, responsive design, and DOM manipulation. It's a great way to learn about media handling, dynamic content loading, and creating user-friendly interfaces.
